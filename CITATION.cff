@@ -21,6 +21,9 @@ keywords:
   - "Pareto front"
   - "Solutions of Interest"
   - "reproducibility"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21626996"
 preferred-citation:
   type: article
   title: "From Pareto Fronts to Decision Spaces: A Method-Agnostic Workflow for Post-Optimization Decision Support in the Next Release Problem"
