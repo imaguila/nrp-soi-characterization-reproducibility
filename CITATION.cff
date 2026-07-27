@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite it as below."
+title: "Reproducibility package for: From Pareto Fronts to Decision Spaces"
+authors:
+  - family-names: "del Águila"
+    given-names: "Isabel M."
+version: "1.0.0"
+date-released: "2026-07-27"
+license: "MIT"
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+abstract: >
+  This reproducibility package contains exported WordProc SOI datasets,
+  consensus subsets, analysis scripts, and generated outputs used to reproduce
+  the descriptive SOI characterization reported in the manuscript
+  "From Pareto Fronts to Decision Spaces: A Method-Agnostic Workflow for
+  Post-Optimization Decision Support in the Next Release Problem".
+keywords:
+  - "Next Release Problem"
+  - "visual analytics"
+  - "post-optimization decision support"
+  - "Pareto front"
+  - "Solutions of Interest"
+  - "reproducibility"
+preferred-citation:
+  type: article
+  title: "From Pareto Fronts to Decision Spaces: A Method-Agnostic Workflow for Post-Optimization Decision Support in the Next Release Problem"
+  authors:
+    - family-names: "del Águila"
+      given-names: "Isabel M."
+  journal: "IEEE Access"
